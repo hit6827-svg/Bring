@@ -1,0 +1,6 @@
+{
+  "name": "Bring",
+  "description": "A fast, offline-capable, and simple Task Manager application with custom green styling, auth, and PWA integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
